@@ -5,7 +5,11 @@
 
 
 
+def introduction(name) do 
+  print "hi, my name is #{name}."
+end
 
+introduction(Terry)
 
 
 
